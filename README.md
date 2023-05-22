@@ -51,3 +51,18 @@ vi /etc/chrony.conf
 
 **vi**
 파일만들때, 파일 수정시에 씀 //   vi 파일명
+
+**mv**
+move의 줄임말
+
+현재 디렉토리에 있는 aaa.txt 파일을 디렉토리 내부의 new_folder 디렉토리로 이동
+ mv (파일명)aaa.txt (디렉토리이름)new_folder
+
+현재 디렉토리에 있는 test.txt 파일을 new_test.txt라는 파일로 이름 바꾸기
+mv (원래파일명)test.txt (바꿀파일명)new_test.txt
+
+/user/bbb 경로에서 test.txt 파일을 /user/aaa 디렉토리로 이동
+ex) mv (파일이름)test.txt (경로)/user/aaa/new_folder
+
+/user/aaa 경로 test.txt 파일을 /user/bbb 디렉토리에 new.txt로 바꾸어 이동
+ex) mv (원래경로)/user/aaa/test.txt (새로운경로)/user/bbb/new.txt
