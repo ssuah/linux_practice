@@ -71,7 +71,7 @@ ex) mv (원래경로)/user/aaa/test.txt (새로운경로)/user/bbb/new.txt
 
 **mount**<br>
 sd카드나 usb연결시 mount명령으로 연결해야함.
-<br>
+<br><br><br><br>
  ## 시스템 조작을 위한 리눅스 명령어
 <br><br> 
  **uname**<br>
